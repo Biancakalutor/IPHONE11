@@ -1,4 +1,3 @@
-rust-lang.rust-analyzer
 
 {
     "python.testing.pytestArgs": [
